@@ -1,0 +1,10 @@
+* bdef
+
+Buffer definition; audio buffer abstraction for sound synthesis systems.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/defaultxr/bdef.git   |
+| commit  | 8d0e8ee  |
+| systems | bdef |
+|---------+-------------------------------------------|
+
