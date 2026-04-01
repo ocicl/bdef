@@ -8,3 +8,4 @@ Buffer definition; audio buffer abstraction for sound synthesis systems.
 | commit  | 875c094                                   |
 | systems | bdef                                      |
 |---------+-------------------------------------------|
+ 
